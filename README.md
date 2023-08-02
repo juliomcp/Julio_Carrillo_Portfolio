@@ -8,5 +8,4 @@ This Portfolio is a compilation of some of the Data Science and Analysis project
 
 
 ## Projects
-<div>
-  <img src="https://user-images.githubusercontent.com/141171038/257931722-b4db74c6-d5bb-416d-9a46-73a351c801f1.png)https://user-images.githubusercontent.com/141171038/257931722-b4db74c6-d5bb-416d-9a46-73a351c801f1.png" alt="Capstone project from Google Advance Data Analytics Professional Certificate" style="width:200px; float: left; margin-right:10px;"> In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. </p>
+-**Capstone project from Google Advance Data Analytics Professional Certificate**: In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. </p>
