@@ -12,5 +12,4 @@ This Portfolio is a compilation of some of the Data Science and Analysis project
 ![Capstone project from Google Advance Data Analytics Professional Certificate](https://user-images.githubusercontent.com/141171038/257931722-b4db74c6-d5bb-416d-9a46-73a351c801f1.png)
 
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
-
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. 
