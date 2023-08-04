@@ -8,7 +8,7 @@ This Portfolio is a compilation of some of the Data Science and Analysis project
 
 
 ## Projects
-- [HR project](./MyFolder/HR%20project.ipynb)
+- [HR project desc](./MyFolder/HR%20project.ipynb)
    - This project involves...
 - [Weibull calculation](./MyFolder/Weibull%20calculation.ipynb)
    - This calculation is about...
