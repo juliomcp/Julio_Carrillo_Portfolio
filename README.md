@@ -17,3 +17,5 @@ This Portfolio is a compilation of some of the Data Science and Analysis project
 - [Optimal replacement time calculation for heat exchangeers](./MyFolder/optimal%20repla%20time%20heat%20exch.ipynb)
    - This project aimed to determine the optimal replacement time for heat exchangers using Weibull distribution parameters and triangular distribution costs of corrective and preventive replacements. The goal was to optimize replacement frequency and mitigate high failure rates.
 
+- [Titanic Survival Prediction](./MyFolder/titanic_survival_prediction.ipynb)
+   - Brief description of the project goes here. It can include information about the context of the project, the techniques and tools you used, the data you worked with, the results you found, and so on.
