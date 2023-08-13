@@ -1,5 +1,25 @@
 # Julio Carrillo Portfolio
 
+## Skills
+
+- **Data & Predictive Analysis**: 
+  - Tools & Techniques: Python, Machine Learning, Linear Regression, Hypothesis Testing, Power BI, Minitab, Tableau, SQL, BigQuery, and Dataflow.
+  
+- **Big Data Technologies & Visualization**: 
+  - Expertise in Data Mining, Time Series Analysis, Bayesian Statistics, and Data Visualization.
+
+- **Predictive Technologies**:
+  - Specializations: Vibration Analysis, IR, Ultrasound
+  
+- **Maintenance & Failure Analysis**:
+  - Root Cause Failure Analysis (RCFA), Failure Mode and Effects Analysis (FMEA), Reliability Centered Maintenance (RCM), and Total Productive Maintenance (TPM).
+  
+- **Process Improvement**:
+  - Lean Six Sigma, Kaizen, Continuous Improvement
+  
+- **Other Skills**:
+  - CMMS (SAP), Technical Standards, Drawings, and Blueprints.
+
 **Data Analytics & Business Intelligence**
 
 This portfolio is a compilation of Data Science, Analysis, and Business Intelligence projects I've undertaken for academic and work purposes.
