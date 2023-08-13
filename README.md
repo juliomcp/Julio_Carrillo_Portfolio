@@ -1,5 +1,12 @@
 # Julio Carrillo Portfolio
 
+**Data Analytics & Business Intelligence**
+
+This portfolio is a compilation of Data Science, Analysis, and Business Intelligence projects I've undertaken for academic and work purposes.
+
+- **Email**: [juliomcp@gmail.com](mailto:juliomcp@gmail.com)
+- **LinkedIn**: [linkedin.com/juliocarrillopalma/](https://www.linkedin.com/in/juliocarrillopalma/)
+
 ## Skills
 
 - **Data & Predictive Analysis**: 
@@ -19,13 +26,6 @@
   
 - **Other Skills**:
   - CMMS (SAP), Technical Standards, Drawings, and Blueprints.
-
-**Data Analytics & Business Intelligence**
-
-This portfolio is a compilation of Data Science, Analysis, and Business Intelligence projects I've undertaken for academic and work purposes.
-
-- **Email**: [juliomcp@gmail.com](mailto:juliomcp@gmail.com)
-- **LinkedIn**: [linkedin.com/juliocarrillopalma/](https://www.linkedin.com/in/juliocarrillopalma/)
 
 ## Data Analysis Projects
 
