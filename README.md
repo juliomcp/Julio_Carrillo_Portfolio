@@ -26,7 +26,7 @@ This portfolio is a compilation of Data Science, Analysis, and Business Intellig
 ## Business Intelligence Projects
 
 ### [Minnesota Department of Transportation Traffic Dashboard](https://public.tableau.com/app/profile/julio.carrillo/viz/Minneapolistrafficvolume/Story1)
-As a part of the Google BI Professional Certificate, I collaborated with the Minnesota Department of Transportation to design a comprehensive dashboard that captures essential traffic metrics.
+As a part of the Google BI Professional Certificate Project, I designed a comprehensive dashboard that captures essential traffic metrics for the Minnesota Department of Transportation.
 
 **Key Features**:
 - **Yearly Traffic Breakdown**: Visualized the traffic volume with granularity options, allowing users to filter by year, month, week, day, and hour.
