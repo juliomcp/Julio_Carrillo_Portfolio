@@ -9,23 +9,13 @@ This portfolio is a compilation of Data Science, Analysis, and Business Intellig
 
 ## Skills
 
-- **Data & Predictive Analysis**: 
-  - Tools & Techniques: Python, Machine Learning, Linear Regression, Hypothesis Testing, Power BI, Minitab, Tableau, SQL, BigQuery, and Dataflow.
-  
-- **Big Data Technologies & Visualization**: 
-  - Expertise in Data Mining, Time Series Analysis, Bayesian Statistics, and Data Visualization.
-
-- **Predictive Technologies**:
-  - Specializations: Vibration Analysis, IR, Ultrasound
-  
-- **Maintenance & Failure Analysis**:
-  - Root Cause Failure Analysis (RCFA), Failure Mode and Effects Analysis (FMEA), Reliability Centered Maintenance (RCM), and Total Productive Maintenance (TPM).
-  
-- **Process Improvement**:
-  - Lean Six Sigma, Kaizen, Continuous Improvement
-  
-- **Other Skills**:
-  - CMMS (SAP), Technical Standards, Drawings, and Blueprints.
+- **Predictive Analytics**: Proficient in using Python, Machine Learning, and Linear Regression.
+- **Big Data Techniques**: Experienced in data mining, time series, and Bayesian statistics.
+- **Data Visualization**: Skilled with Power BI, Tableau, and Minitab; familiar with best practices.
+- **Predictive Technologies**: Knowledgeable in Vibration Analysis, IR, Ultrasound.
+- **Maintenance Methodologies**: Expert in RCFA, FMEA, RCM, and TPM.
+- **Operational Excellence**: Practiced in Lean Six Sigma, Kaizen, and continuous improvement.
+- **CMMS**: Proficient with SAP.
 
 ## Data Analysis Projects
 
